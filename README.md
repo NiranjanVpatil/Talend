@@ -2,7 +2,7 @@
 Talend has democratized master data management by developing the first complete open source MDM solution. Using a simple graphical development environment, I now have the opportunity to build out my data model, define data integration jobs, and manage data step wise workflows.
 
 
-Lab Assignment 1 :
+Lab Assignment 01 :
 
 
 Create an excel sheet Containing student personal information with fields Roll no, name, address, phone , mobile, DOB, gender, city, state.
@@ -21,3 +21,46 @@ After assuring uniformity in the formats you are Applying ETL process to generat
 4.	Students who got more than 5 lacs in one file and less than in other file. 
 5.	Details of Girls selected in placement.
 (use tmap, tJoin, tReplicate ,tFilter functions any all other necessary components for the above exercise )
+
+
+
+
+
+Lab Assignment 02  :
+
+File Management  :
+
+1.	How to Read Data From a Delimited File ? 
+2.	How to Read Data From an Excel File ? 
+3.	How to Read Data Complete Row as a Column From a File ? 
+4.	How to Read Data From an Email File ? 
+5.	How to Read Data From a Multi Structured Delimited File ? 
+6.	How to Read Data From a Positional File ? 
+7.	How to Read Data From a Multi Structured Positional File ? 
+8.	How to Read Data From a XML File ? 
+9.	How to Read Data From a Multi Structured XML File ? 
+10.	How to Read Data From a Properties File ? 
+11.	How to Read all the content of a file and Send it to a Single column ? 
+12.	How to Read Data From a Regex File ? 
+13.	How to Write Data To a Delimited File ? 
+14.	How to Write Data To an Excel File ? 
+15.	How to Write Data To a Multi Structured Delimited File ? 
+16.	How to Write Data To a Positional File ? 
+17.	How to Write Data To a Multi Structured Positional File ? 
+18.	How to Write Data To a XML File ? 
+19.	How to Write Data To a Multi Structured XML File ? 
+20.	How to Write Data To a Properties File ? 
+21.	How to Handle Single Column Output Data ? 
+22.	How to Change Rows into Columns ? 
+23.	How to Change Encoding of a File ? 
+24.	How to Create a Temporary File ? 
+25.	How to Archive a File ? 
+26.	How to Compare Two Files ? 
+27.	How to Copy Files ? 
+28.	How to Delete a File ? 
+29.	How to Check whether a File Exist or not ? 
+30.	How to List files in a Directory ? 
+31.	How to find properties of a File ? 
+32.	How to Count the rows in a File ? 
+33.	How to UnArchive or UnZip a File ? 
+
