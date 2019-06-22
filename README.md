@@ -2,7 +2,7 @@
 Talend has democratized master data management by developing the first complete open source MDM solution. Using a simple graphical development environment, I now have the opportunity to build out my data model, define data integration jobs, and manage data step wise workflows.
 
 
-Lab Assignment 01 :
+# Lab Assignment 01 :
 
 
 Create an excel sheet Containing student personal information with fields Roll no, name, address, phone , mobile, DOB, gender, city, state.
@@ -26,9 +26,9 @@ After assuring uniformity in the formats you are Applying ETL process to generat
 
 
 
-Lab Assignment 02  :
+#  Lab Assignment 02  :
 
-File Management  :
+#  File Management  :
 
 1.	How to Read Data From a Delimited File ? 
 2.	How to Read Data From an Excel File ? 
