@@ -1,4 +1,19 @@
+Exam Asked 
+
+ Talend – 
+1.	Extracting Data of CSV files Using tFilelist, tFlowtoiterrate, tIterratetoflow
+2.	Database Connection using Microsoft Access (tDBRow, tDBConnection, tDBInput, tDBOutput)
+3.	Data Preprocessing of (CSV,TXT,XLS) using tMap(variable creation,expression, join), tFilter, tRow, tLogRow, tUniqueRow, tReplaceList, tSortRow, tJoin, tReplicate, tFilterRow, tAggregateRow, tSortRow, tReplace, tNormalize, tDenormalize, tAggregateSortedRow, 
+4.	Create Business Model
+5.	Create Global and Local Variables
+6.	Data Integration
+7.	Exception Handling using tJavaFlex
+8.	Logs and Error using tFlowMeter, tFlowMeterCatcher, tLogCatcher
+9.	File Management (Read/Write different files such csv, pdf, email, xml, xls, etc.)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Designing a Business Model
+
 Introduction 
 What is a Business Model ? 
 How to Create a Business Model ? 
