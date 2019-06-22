@@ -69,3 +69,10 @@ https://www.youtube.com/watch?v=DWwT5c4EkSc
 32.	How to Count the rows in a File ? 
 33.	How to UnArchive or UnZip a File ? 
 
+
+# My ( T184104 )Lab Exam 
+
+1. Creating a local Database Connection 
+2. Display Query on console
+3. Seprate two files
+
