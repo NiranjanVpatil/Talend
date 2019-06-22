@@ -22,13 +22,18 @@ After assuring uniformity in the formats you are Applying ETL process to generat
 5.	Details of Girls selected in placement.
 (use tmap, tJoin, tReplicate ,tFilter functions any all other necessary components for the above exercise )
 
+Reference :
 
+https://www.youtube.com/watch?v=BCIF9T-2bUo
 
+https://www.youtube.com/watch?v=20qJmOr5Uts
+
+https://www.youtube.com/watch?v=DWwT5c4EkSc
 
 
 #  Lab Assignment 02  :
 
-#  File Management  :
+ File Management  :
 
 1.	How to Read Data From a Delimited File ? 
 2.	How to Read Data From an Excel File ? 
