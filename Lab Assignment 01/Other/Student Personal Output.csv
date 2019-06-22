@@ -1,0 +1,61 @@
+Roll_No,Name,Address,Phone,Mobile,DOB,Gender,City,State
+SCETTYMI01,RITIK Kumar ,tingre nagar,77567434,1234567890,5/6/1999,M,pune,maharashtra
+SCETTYMI02,RakeshPatil,kate vasti ,54343434,3534564645,5/7/1999,F,mumbai,maharashtra
+SCETTYMI03,Rushikesh Bhadage,kate vasti ,35534334,7566453467,5/8/1999,M,pune,maharashtra
+SCETTYMI04,AkanshaKumari,tingre nagar,97876765,2455454257,5/9/1999,F,kolhapur,maharashtra
+SCETTYMI05,Tushar Desai,mj road,98765654,8786767454,5/10/1999,M,pabal,maharashtra
+SCETTYMI06,Tejas Dhakad,jm road,97560845,9786434678,5/11/1999,F,jalgaon,maharashtra
+SCETTYMI07,ShubhamJoshi,mgroad,45236459,5353687646,5/12/1999,M,nagpur,maharashtra
+SCETTYMI08,AkankshaKothari,sane chawk,11235312,8675653674,5/13/1999,M,mumbai,maharashtra
+SCETTYMI09,MonikaSreedharan,chinchwad,64534126,8566568457,5/14/1999,F,hyderabad,tamilnadu
+SCETTYMI10,ShraddhaJadhav,balaji chawk,89076797,5756564646,5/15/1999,F,shimala,j&k
+SCETTYMI11,Rawal Pandey,moshi road,12345678,7556565666,5/16/1999,M,anantagad,j & k
+SCETTYMI12,HarshalBorhade,rahul phata,89074563,7565656575,5/17/1999,M,shrinagar,j & k
+SCETTYMI13,Ajinkya Choudhari,kate nagar,56342312,5656565634,5/18/1999,M,nagpur,maharashtra
+SCETTYMI14,PrajaktaYadav,kate vasti ,42424234,8676755645,5/19/1999,F,gadchiroli,maharashtra
+SCETTYMI15,PoojaSawant, shivaji chawk,78875645,8675346789,5/20/1999,M,yavtmal,maharashtra
+SCETTYMI16,AtishBargaje,sathe chawk,87643698,8857867553,5/21/1999,F,parbhani,maharashtra
+SCETTYMI17,Rushikesh Kadam ,patil vasti,12365356,7030756474,5/22/1999,M,akola,maharashtra
+SCETTYMI18,NileshWani,patil vasti,57678934,9823538253,5/23/1999,F,nashik,maharashtra
+SCETTYMI19,PRANAVMORE,patil nagar,86763458,9823938789,5/24/1999,M,pune,maharashtra
+SCETTYMI20,JayeshShelar,mane chawk,34357097,9822125161,5/25/1999,M,jalgaon,maharashtra
+SCETTYB101,Saurabh Deshmukh,"Plot No-32, Flat No-F-01, Vaishnav Jyoti Apartment, Trisharan Nagar",2,9405386827,2/12/1999
+SCETTYB102,Tejas Dhakad,"room no. 5, samarth society, paizari",23547156,9,10/10/1999,M
+SCETTYB103,Darshan Dharmik,"plot no 133 ,vina ,maharana pratap hsg sociery old airport ",20455715,9,9/7/1999,M
+SCETTYB104,Sankeit Dighe,"Brahman Galli, Nagarkhana Road",32481501,8888855008,4,M,Latur
+SCETTYB105,Shardul Dubey,"09, Anuja Apartment , Behind Janlaxmi Bank Head Office, Old Agra Road",3,7769079516,1/12/1998
+SCETTYB106,Sanket Dehankar,"B-1, Flat No. 302, Mahalaxmi Vihar, Vishrantwadi",2,9423107123,5/4/1999
+SCETTYB107,Advaiti Patil,"Near Vitthal temple, Vitthal Colony, Shrinagar, Akola road",3,9921225614,11/16/1998
+SCETTYB108,Suprit Gaikwad,"75,Ganesh nagar, shahada",20134720,8,9/14/1998,M
+SCETTYB109,Garima,"Ramnagari Complex 2B Flat NO.317,Alandi Road",32547115,8340510396,1,F,Panji
+SCETTYB110,Sudhanshu Gupta,"S48, Datta Prasad, Bharat Nagar, Amt road",2,9822099700,6/17/1997
+SCETTYB111,Swapnaja Varkhede,"408 B Wing, Raviraj Heritage, Bhau Patil Road, Bopodi",3,9414418744,4/5/1997
+SCETTYB112,Shraddha Jadhav,"C705 Phase 2 , Alankapuram Society , Charoli- Budruk ",30303536,9,3/15/1999,F
+SCETTYB113,Pooja Sharad Jagtap,"C-701 Sukhwani Bliss, CTS 250 Gawade Nagar, Chinchwad",,9,11/21/1997,F
+SCETTYB114,Pratik Jare,"A102 Splendid Square, Lohegaon-Dhanori Road",20145722,8530318476,1,M,Aurangabad
+SCETTYB115,Joshi Smita Pandharinath,2715 Mandale Complex Dehu Phata ,21453015,7776969936,7/7/1997,F,Nagpur,Maharashtra
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,"Mauli Krupa,Tapkir Nagar,Opposite to Manas Girls Hostel",20455715,9,6/28/1999,M
+SCETTYB117,Kedar Umakant Kale,tanish orchid charoli chovisavadi,32481501,8087080028,3/2/1998,M,Pune,Maharashtra
+SCETTYB118,Agarwal Shubham Sanjay,"shrusti girls hostel,near dehu phata",32104576,8983479331,1,M,Aurangabad
+SCETTYB119,Niranjan Patil,"H1-501, Jasminium, Magarpatta City",21503461,9,1/31/1999,M
+SCETTYB120,Mehul Patil,"Ratan kunj, nai abadi, near jain temple, pratapgarh",3,8899992429,5/6/1999
+CO105,Aarti ,"B-1, 302, Ganga Satellite, Viman Nagar",2,9201457800,8/5/1992
+CO240,Bharat,"64/1, Happy Homes, Dombivli",23547156,7,11/12/1994,Male
+MECH540,Sayali,"C wing, 411, Gokul Vihar",20455715,8,4/3/1996,Female
+ETX107,Falguni,"D-5, Flat No-201, Sky Vie, Safdarjung Road",3,9541207555,7/23/1997
+MECH321,Darshan,"Prabhu Kunj, Mount Road, Sadar",32104576,8,3/1/1994,Male
+ETX318,Gaurav,"Plot No. 11, Trishul Bungalow, Sadar",21503461,7,12/3/1996,Male
+CHEM245,Ravi,"34, Vitthal Road",,8400221734,8,Male,Nashik
+CO310,Ishan,"D-2, 101, Datta Apartments",24001530,9,10/23/1993,Male
+MECH220,Suraj,"45, Palace Road, Ambedkar Veedhi",30157554,9,2/28/1996,Male
+ETX315,Karan,"C2, 304, Ambala Society, Race Course road",2,7124512704,9/30/1997
+CHEM332,Laksha,"Plot No. 23, Ratnamala, Tilak Road",,8,5/28/1996,Male
+CHEM110,Manav,"37, Hill View Sociey, Mall Road",38450124,9,4/4/1995,Male
+ETX220,Nisha,"A-2, 303, Rahiman Society, Mukundnagar",2,7712304569,7/3/1993
+MECH102,Omkar,"99, Jaideep Vihar, Panchasheel Road",32547115,8,12/7/1996,Male
+CO515,Parika,"243, Galaxy Hieghts, Bandra East",,9,7/14/1994,Female
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,"Mauli Krupa,Tapkir Nagar,Opposite to Manas Girls Hostel",20455715,9,6/28/1999,Male
+SCETTYB117,Kedar Umakant Kale,tanish orchid charoli chovisavadi,32481501,8087080028,3/2/1998,M,Pune,Maharashtra
+SCETTYB118,Agarwal Shubham Sanjay,"shrusti girls hostel,near dehu phata",32104576,8983479331,1,Male,Aurangabad
+SCETTYB119,Niranjan Patil,"H1-501, Jasminium, Magarpatta City",21503461,9,1/31/1999,Male
+SCETTYB120,Mehul Patil,"Ratan kunj, nai abadi, near jain temple, pratapgarh",3,8899992429,5/6/1999

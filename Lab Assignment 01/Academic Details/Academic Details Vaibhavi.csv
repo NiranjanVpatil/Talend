@@ -1,0 +1,21 @@
+Roll No.,Name,DOB,Gender,Branch,Sem-I Total,Sem-II Total,Sem-III Total,Sem-IV Total,Sem-V Total,Sem-VI Total,Sem-VII Total,Skills acquired,Proficiency in communication
+CO105,Aarti ,8/5/1992,Female,Computer,5.00,7.00,4.00,4.00,9.00,6.00,4.00,"Data Analytics, Big data, Cloud",Excellent
+CO240,Bharat,11/12/1994,Male,Computer,4.00,9.00,10.00,8.00,6.00,9.00,8.00,"Machine Intelligence, Cloud",Excellent
+MECH540,Sayali,4/3/1996,Female,Mechanical,9.00,4.00,5.00,7.00,6.00,4.00,5.00,"SAE, Robocon, Catia, Matlab",Very Good
+ETX107,Falguni,7/23/1997,Female,Electronics,9.00,10.00,10.00,8.00,4.00,9.00,4.00,Embedded system,Fair
+MECH321,Darshan,3/1/1994,Male,Mechanical,10.00,4.00,5.00,8.00,6.00,6.00,10.00,"SAE, Catia, Matlab",Good
+ETX318,Gaurav,12/3/1996,Male,Electronics,8.00,9.00,6.00,9.00,6.00,9.00,9.00,"Embedded system, Communication Maintenance",Very Good
+CHEM245,Ravi,8/21/1996,Male,Chemical,10.00,5.00,10.00,7.00,8.00,9.00,5.00,"Mass and Energy Balance, IOT",Fair
+CO310,Ishan,10/23/1993,Male,Computer,6.00,7.00,8.00,4.00,7.00,6.00,6.00,"Computer Security, C, C++, Python, Java, HTML, PHP",Good
+MECH220,Suraj,2/28/1996,Male,Mechanical,7.00,6.00,9.00,6.00,4.00,9.00,10.00,"Robocon, Catia, Matlab, ANSYS",Very Good
+ETX315,Karan,9/30/1997,Male,Electronics,5.00,10.00,7.00,5.00,8.00,8.00,10.00,Communication Maintanence,Very Good
+CHEM332,Laksha,5/28/1996,Male,Chemical,5.00,5.00,5.00,7.00,9.00,5.00,9.00,"Hydraulics, Heat Transfer",Excellent
+CHEM110,Manav,4/4/1995,Male,Chemical,7.00,6.00,8.00,6.00,6.00,9.00,6.00,"Hydraulics, Heat Transfer, Distillation",Very Good
+ETX220,Nisha,7/3/1993,Female,Electronics,7.00,6.00,9.00,5.00,9.00,7.00,4.00,Embedded system,Very Good
+MECH102,Omkar,12/7/1996,Male,Mechanical,7.00,8.00,5.00,8.00,5.00,8.00,9.00,"SAE, Robocon, AutoCAD, ANSYS",Very Good
+CO515,Parika,7/14/1994,Female,Computer,8.00,6.00,9.00,6.00,5.00,5.00,9.00,"Computer security, C, C++, Python, Java",Good
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,6/28/1999,Male,Electronics,9.00,6.00,8.00,7.00,7.00,7.00,9.00,Networking,Excellent
+SCETTYB117,Kedar Umakant Kale,3/2/1998,Male,Civil,5.00,8.00,7.00,6.00,9.00,8.00,5.00,Product Design,V.Good
+SCETTYB118,Agarwal Shubham Sanjay,1/28/1999,Male,Mechanical,8.00,8.00,8.00,5.00,9.00,7.00,8.00,"SAE, Robocon, AutoCAD, ANSYS",Excellent
+SCETTYB119,Niranjan Patil,1/31/1999,Male,Computer,9.00,7.00,8.00,5.00,8.00,6.00,9.00,"Computer security, C, C++, Python, Java",Excellent
+SCETTYB120,Mehul Patil,5/6/1999,Male,Computer,8.00,7.00,8.00,8.00,5.00,6.00,5.00,"SAE, Robocon, Catia, Matlab, AutoCAD",Fair

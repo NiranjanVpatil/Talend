@@ -1,0 +1,21 @@
+Roll No,Name,DOB,Gender,Branch, Sem-I total, Sem-II total, Sem-III total, Sem-IV  total, Sem-V total, Sem-VI total, Sem-VII total,Skills acquired,Proficiency in Communication
+SCETTYB101,Saurabh Deshmukh,2/12/1999,M,Computer,8.00,6.00,5.00,6.00,5.00,5.00,8.00,"Hydraulics, Heat Transfer, Distillation",Good
+SCETTYB102,Tejas Dhakad,10/10/1999,M,Electronics,8.00,8.00,8.00,8.00,6.00,6.00,5.00,Communication Maintanence,Poor
+SCETTYB103,Darshan Dharmik,9/7/1999,M,Civil,7.00,8.00,8.00,6.00,8.00,5.00,5.00,"Hydraulics, Heat Transfer",Excellent
+SCETTYB104,Sankeit Dighe,4/1/1998,M,Mechanical,9.00,7.00,9.00,8.00,5.00,6.00,8.00,"Hydraulics, Heat Transfer, Distillation",Poor
+SCETTYB105,Shardul Dubey,1/12/1998,M,Computer,9.00,7.00,6.00,8.00,6.00,8.00,6.00,Embedded system,Fair
+SCETTYB106,Sanket Dehankar,5/4/1999,M,Computer,7.00,8.00,5.00,7.00,8.00,8.00,6.00,"SAE, Robocon, AutoCAD, ANSYS",V.Good
+SCETTYB107,Advaiti Patil,11/16/1998,F,Computer,5.00,8.00,7.00,8.00,5.00,9.00,6.00,"Computer security, C, C++, Python, Java",Poor
+SCETTYB108,Suprit Gaikwad,9/14/1998,M,Mechanical,6.00,6.00,7.00,8.00,5.00,7.00,5.00,"SAE, Robocon, Catia, Matlab, AutoCAD",Poor
+SCETTYB109,Garima,11/21/1999,F,Electronics,6.00,6.00,9.00,9.00,6.00,9.00,9.00,"Equipment Inspection, Hydraulics",Poor
+SCETTYB110,Sudhanshu Gupta,6/17/1997,M,Civil,5.00,7.00,5.00,5.00,8.00,7.00,7.00,Embedded system,Poor
+SCETTYB111,Swapnaja Varkhede,4/5/1997,F,Computer,9.00,7.00,9.00,5.00,5.00,6.00,5.00,"Mass and Energy Balance, IOT",V.Good
+SCETTYB112,Shraddha Jadhav,3/15/1999,F,Mechanical,7.00,8.00,5.00,5.00,6.00,5.00,5.00,Embedded system,Good
+SCETTYB113,Pooja Sharad Jagtap,11/21/1997,F,Mechanical,6.00,8.00,6.00,5.00,7.00,8.00,5.00,Computer Security,Excellent
+SCETTYB114,Pratik Jare,12/5/1997,M,Electronics,7.00,9.00,6.00,6.00,5.00,7.00,7.00,Computer Security,Excellent
+SCETTYB115,Joshi Smita Pandharinath,7/7/1997,F,Civil,8.00,9.00,5.00,8.00,5.00,9.00,9.00,Catia,Fair
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,6/28/1999,M,Electronics,8.00,5.00,7.00,9.00,8.00,5.00,7.00,Computer Security,Excellent
+SCETTYB117,Kedar Umakant Kale,3/2/1998,M,Civil,6.00,7.00,6.00,5.00,7.00,9.00,6.00,C++,Good
+SCETTYB118,Agarwal Shubham Sanjay,1/28/1999,M,Mechanical,8.00,8.00,8.00,5.00,7.00,8.00,7.00,"SAE, Robocon, AutoCAD, ANSYS",Good
+SCETTYB119,Niranjan Patil,1/31/1999,M,Computer,7.00,8.00,8.00,9.00,5.00,8.00,9.00,"Computer security, C, C++, Python, Java",Excellent
+SCETTYB120,Mehul Patil,5/6/1999,M,Computer,7.00,6.00,5.00,5.00,8.00,5.00,7.00,"SAE, Robocon, Catia, Matlab, AutoCAD",Good

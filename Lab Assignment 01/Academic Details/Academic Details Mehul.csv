@@ -1,0 +1,21 @@
+Roll No,Name,DOB,Gender,Branch, Sem-I total, Sem-II total, Sem-III total, Sem-IV  total, Sem-V total, Sem-VI total, Sem-VII total,Skills acquired,Proficiency in Communication
+SCETTYMI01,RITIK Kumar ,5/6/1999,Male ,Chemical,7.00,5.00,8.00,8.00,5.00,6.00,6.00,Cloud computing,V.Good
+SCETTYMI02,RakeshPatil,5/7/1999,Female,Civil,7.00,9.00,7.00,6.00,9.00,9.00,9.00,Embedded System,V.Good
+SCETTYMI03,Rushikesh Bhadage,5/8/1999,Male ,Chemical,8.00,9.00,9.00,9.00,5.00,9.00,7.00,CAD,Good
+SCETTYMI04,AkanshaKumari,5/9/1999,Female,Civil,7.00,7.00,9.00,5.00,5.00,5.00,9.00,c++,Poor
+SCETTYMI05,Tushar Desai,5/10/1999,Male ,Chemical,9.00,7.00,8.00,5.00,7.00,7.00,6.00,Embedded System,Fair
+SCETTYMI06,Tejas Dhakad,5/11/1999,Female,Electronics,8.00,8.00,7.00,7.00,8.00,8.00,5.00,Structural Engineering,V.Good
+SCETTYMI07,ShubhamJoshi,5/12/1999,Male ,Chemical,8.00,7.00,6.00,9.00,7.00,6.00,6.00,c++,Poor
+SCETTYMI08,AkankshaKothari,5/13/1999,Male ,Electronics,5.00,9.00,5.00,8.00,9.00,8.00,7.00,Data Science,V.Good
+SCETTYMI09,MonikaSreedharan,5/14/1999,Female,Mechanical,7.00,5.00,7.00,5.00,9.00,9.00,9.00,c,V.Good
+SCETTYMI10,ShraddhaJadhav,5/15/1999,Female,Chemical,8.00,8.00,8.00,6.00,8.00,7.00,6.00,c,Good
+SCETTYMI11,Rawal Pandey,5/16/1999,Male ,Mechanical,7.00,6.00,9.00,6.00,5.00,6.00,5.00,Embedded System,Fair
+SCETTYMI12,HarshalBorhade,5/17/1999,Male ,Electronics,7.00,7.00,9.00,6.00,9.00,8.00,7.00,c++,V.Good
+SCETTYMI13,Ajinkya Choudhari,5/18/1999,Male ,Civil,8.00,7.00,8.00,6.00,5.00,8.00,6.00,Embedded System,Good
+SCETTYMI14,PrajaktaYadav,5/19/1999,Female,Civil,7.00,9.00,9.00,9.00,6.00,7.00,7.00,Data Science,Excellent
+SCETTYMI15,PoojaSawant,5/20/1999,Male ,Mechanical,9.00,9.00,6.00,7.00,5.00,6.00,6.00,Data Science,Fair
+SCETTYMI16,AtishBargaje,5/21/1999,Female,Chemical,7.00,9.00,9.00,6.00,5.00,5.00,9.00,Embedded System,V.Good
+SCETTYMI17,Rushikesh Kadam ,5/22/1999,Male ,Computer,6.00,7.00,8.00,8.00,6.00,5.00,9.00,Data Science,Fair
+SCETTYMI18,NileshWani,5/23/1999,Female,Chemical,5.00,8.00,5.00,8.00,9.00,8.00,5.00,Cloud computing,V.Good
+SCETTYMI19,PRANAVMORE,5/24/1999,Male ,Computer,9.00,8.00,7.00,7.00,6.00,6.00,9.00,Structural Engineering,V.Good
+SCETTYMI20,JayeshShelar,5/25/1999,Male ,Chemical,8.00,5.00,7.00,9.00,7.00,5.00,7.00,Cloud computing,V.Good

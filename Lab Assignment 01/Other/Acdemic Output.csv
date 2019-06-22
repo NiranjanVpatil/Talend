@@ -1,0 +1,89 @@
+RollNo,Name,DOB,Gender,Branch,Sem_I_total,Sem_II_total,Sem_III_total,Sem_IV_total,Sem_V_total,Sem_VI_total,Sem_VII_total,Skills_required,Proficiency_in_Communication
+SCETTYMI01,RITIK Kumar ,5/6/1999,M,Chemical,7,5,8,8,5,6,6,Cloud computing,V.Good
+SCETTYMI02,RakeshPatil,5/7/1999,F,Civil,7,9,7,6,9,9,9,Embedded System,V.Good
+SCETTYMI03,Rushikesh Bhadage,5/8/1999,M,Chemical,8,9,9,9,5,9,7,CAD,Good
+SCETTYMI04,AkanshaKumari,5/9/1999,F,Civil,7,7,9,5,5,5,9,c++,Poor
+SCETTYMI05,Tushar Desai,5/10/1999,M,Chemical,9,7,8,5,7,7,6,Embedded System,Fair
+SCETTYMI06,Tejas Dhakad,5/11/1999,F,Electronics,8,8,7,7,8,8,5,Structural Engineering,V.Good
+SCETTYMI07,ShubhamJoshi,5/12/1999,M,Chemical,8,7,6,9,7,6,6,c++,Poor
+SCETTYMI08,AkankshaKothari,5/13/1999,M,Electronics,5,9,5,8,9,8,7,Data Science,V.Good
+SCETTYMI09,MonikaSreedharan,5/14/1999,F,Mechanical,7,5,7,5,9,9,9,c,V.Good
+SCETTYMI10,ShraddhaJadhav,5/15/1999,F,Chemical,8,8,8,6,8,7,6,c,Good
+SCETTYMI11,Rawal Pandey,5/16/1999,M,Mechanical,7,6,9,6,5,6,5,Embedded System,Fair
+SCETTYMI12,HarshalBorhade,5/17/1999,M,Electronics,7,7,9,6,9,8,7,c++,V.Good
+SCETTYMI13,Ajinkya Choudhari,5/18/1999,M,Civil,8,7,8,6,5,8,6,Embedded System,Good
+SCETTYMI14,PrajaktaYadav,5/19/1999,F,Civil,7,9,9,9,6,7,7,Data Science,Excellent
+SCETTYMI15,PoojaSawant,5/20/1999,M,Mechanical,9,9,6,7,5,6,6,Data Science,Fair
+SCETTYMI16,AtishBargaje,5/21/1999,F,Chemical,7,9,9,6,5,5,9,Embedded System,V.Good
+SCETTYMI17,Rushikesh Kadam ,5/22/1999,M,Computer,6,7,8,8,6,5,9,Data Science,Fair
+SCETTYMI18,NileshWani,5/23/1999,F,Chemical,5,8,5,8,9,8,5,Cloud computing,V.Good
+SCETTYMI19,PRANAVMORE,5/24/1999,M,Computer,9,8,7,7,6,6,9,Structural Engineering,V.Good
+SCETTYMI20,JayeshShelar,5/25/1999,M,Chemical,8,5,7,9,7,5,7,Cloud computing,V.Good
+SCETTYB101,Saurabh Deshmukh,2/12/1999,M,Computer,8,6,5,6,5,5,8,"Hydraulics, Heat Transfer, Distillation",Good
+SCETTYB102,Tejas Dhakad,10/10/1999,M,Electronics,8,8,8,8,6,6,5,Communication Maintanence,Poor
+SCETTYB103,Darshan Dharmik,9/7/1999,M,Civil,7,8,8,6,8,5,5,"Hydraulics, Heat Transfer",Excellent
+SCETTYB104,Sankeit Dighe,4/1/1998,M,Mechanical,9,7,9,8,5,6,8,"Hydraulics, Heat Transfer, Distillation",Poor
+SCETTYB105,Shardul Dubey,1/12/1998,M,Computer,9,7,6,8,6,8,6,Embedded system,Fair
+SCETTYB106,Sanket Dehankar,5/4/1999,M,Computer,7,8,5,7,8,8,6,"SAE, Robocon, AutoCAD, ANSYS",V.Good
+SCETTYB107,Advaiti Patil,11/16/1998,F,Computer,5,8,7,8,5,9,6,"Computer security, C, C++, Python, Java",Poor
+SCETTYB108,Suprit Gaikwad,9/14/1998,M,Mechanical,6,6,7,8,5,7,5,"SAE, Robocon, Catia, Matlab, AutoCAD",Poor
+SCETTYB109,Garima,11/21/1999,F,Electronics,6,6,9,9,6,9,9,"Equipment Inspection, Hydraulics",Poor
+SCETTYB110,Sudhanshu Gupta,6/17/1997,M,Civil,5,7,5,5,8,7,7,Embedded system,Poor
+SCETTYB111,Swapnaja Varkhede,4/5/1997,F,Computer,9,7,9,5,5,6,5,"Mass and Energy Balance, IOT",V.Good
+SCETTYB112,Shraddha Jadhav,3/15/1999,F,Mechanical,7,8,5,5,6,5,5,Embedded system,Good
+SCETTYB113,Pooja Sharad Jagtap,11/21/1997,F,Mechanical,6,8,6,5,7,8,5,Computer Security,Excellent
+SCETTYB114,Pratik Jare,12/5/1997,M,Electronics,7,9,6,6,5,7,7,Computer Security,Excellent
+SCETTYB115,Joshi Smita Pandharinath,7/7/1997,F,Civil,8,9,5,8,5,9,9,Catia,Fair
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,6/28/1999,M,Electronics,8,5,7,9,8,5,7,Computer Security,Excellent
+SCETTYB117,Kedar Umakant Kale,3/2/1998,M,Civil,6,7,6,5,7,9,6,C++,Good
+SCETTYB118,Agarwal Shubham Sanjay,1/28/1999,M,Mechanical,8,8,8,5,7,8,7,"SAE, Robocon, AutoCAD, ANSYS",Good
+SCETTYB119,Niranjan Patil,1/31/1999,M,Computer,7,8,8,9,5,8,9,"Computer security, C, C++, Python, Java",Excellent
+SCETTYB120,Mehul Patil,5/6/1999,M,Computer,7,6,5,5,8,5,7,"SAE, Robocon, Catia, Matlab, AutoCAD",Good
+CO105,Aarti ,8/5/1992,Female,Computer,5,7,4,4,9,6,4,"Data Analytics, Big data, Cloud",Excellent
+CO240,Bharat,11/12/1994,Male,Computer,4,9,10,8,6,9,8,"Machine Intelligence, Cloud",Excellent
+MECH540,Sayali,4/3/1996,Female,Mechanical,9,4,5,7,6,4,5,"SAE, Robocon, Catia, Matlab",Very Good
+ETX107,Falguni,7/23/1997,Female,Electronics,9,10,10,8,4,9,4,Embedded system,Fair
+MECH321,Darshan,3/1/1994,Male,Mechanical,10,4,5,8,6,6,10,"SAE, Catia, Matlab",Good
+ETX318,Gaurav,12/3/1996,Male,Electronics,8,9,6,9,6,9,9,"Embedded system, Communication Maintenance",Very Good
+CHEM245,Ravi,8/21/1996,Male,Chemical,10,5,10,7,8,9,5,"Mass and Energy Balance, IOT",Fair
+CO310,Ishan,10/23/1993,Male,Computer,6,7,8,4,7,6,6,"Computer Security, C, C++, Python, Java, HTML, PHP",Good
+MECH220,Suraj,2/28/1996,Male,Mechanical,7,6,9,6,4,9,10,"Robocon, Catia, Matlab, ANSYS",Very Good
+ETX315,Karan,9/30/1997,Male,Electronics,5,10,7,5,8,8,10,Communication Maintanence,Very Good
+CHEM332,Laksha,5/28/1996,Male,Chemical,5,5,5,7,9,5,9,"Hydraulics, Heat Transfer",Excellent
+CHEM110,Manav,4/4/1995,Male,Chemical,7,6,8,6,6,9,6,"Hydraulics, Heat Transfer, Distillation",Very Good
+ETX220,Nisha,7/3/1993,Female,Electronics,7,6,9,5,9,7,4,Embedded system,Very Good
+MECH102,Omkar,12/7/1996,Male,Mechanical,7,8,5,8,5,8,9,"SAE, Robocon, AutoCAD, ANSYS",Very Good
+CO515,Parika,7/14/1994,Female,Computer,8,6,9,6,5,5,9,"Computer security, C, C++, Python, Java",Good
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,6/28/1999,Male,Electronics,9,6,8,7,7,7,9,Networking,Excellent
+SCETTYB117,Kedar Umakant Kale,3/2/1998,Male,Civil,5,8,7,6,9,8,5,Product Design,V.Good
+SCETTYB118,Agarwal Shubham Sanjay,1/28/1999,Male,Mechanical,8,8,8,5,9,7,8,"SAE, Robocon, AutoCAD, ANSYS",Excellent
+SCETTYB119,Niranjan Patil,1/31/1999,Male,Computer,9,7,8,5,8,6,9,"Computer security, C, C++, Python, Java",Excellent
+SCETTYB120,Mehul Patil,5/6/1999,Male,Computer,8,7,8,8,5,6,5,"SAE, Robocon, Catia, Matlab, AutoCAD",Fair
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

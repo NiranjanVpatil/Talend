@@ -1,0 +1,41 @@
+RollNo,Name,Gender,Branch,CompanySelected,AnualPackageOffered,Location,YearOfSelection
+SCETTYB101,Saurabh Deshmukh,M,Computer,L & T,10.0,Bangalore,2016
+SCETTYB102,Tejas Dhakad,M,Electronics,Infosys,7.0,Bangalore,2016
+SCETTYB103,Darshan Dharmik,M,Civil,L & T,6.0,Mumbai,2020
+SCETTYB104,Sankeit Dighe,M,Mechanical,Wipro,7.0,Mumbai,2017
+SCETTYB105,Shardul Dubey,M,Computer,Infosys,2.0,Bangalore,2017
+SCETTYB106,Sanket Dehankar,M,Computer,Infosys,4.0,Bangalore,2020
+SCETTYB107,Advaiti Patil,F,Computer,IBM,4.0,Bangalore,2020
+SCETTYB108,Suprit Gaikwad,M,Mechanical,L & T,10.0,Bangalore,2018
+SCETTYB109,Garima,F,Electronics,Accenture,11.0,Bangalore,2020
+SCETTYB110,Sudhanshu Gupta,M,Civil,Infosys,3.0,Mumbai,2016
+SCETTYB111,Swapnaja Varkhede,F,Computer,Infosys,3.0,Pune,2020
+SCETTYB112,Shraddha Jadhav,F,Mechanical,Wipro,12.0,Mumbai,2017
+SCETTYB113,Pooja Sharad Jagtap,F,Mechanical,L & T,6.0,Bangalore,2019
+SCETTYB114,Pratik Jare,M,Electronics,L & T,11.0,Pune,2018
+SCETTYB115,Joshi Smita Pandharinath,F,Civil,Accenture,3.0,,
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,M,Electronics,Wipro,3.0,Pune,2016
+SCETTYB117,Kedar Umakant Kale,M,Civil,L & T,12.0,Pune,2019
+SCETTYB118,Agarwal Shubham Sanjay,M,Mechanical,Infosys,10.0,Pune,2016
+SCETTYB119,Niranjan Patil,M,Computer,IBM,2.0,Bangalore,2018
+SCETTYB120,Mehul Patil,M,Computer,Wipro,2.0,Pune,2016
+CO105,Aarti ,Female,Computer,Directi,10.3,Mumbai,2014
+CO240,Bharat,Male,Computer,Infosys,8.4,Pune,2016
+MECH540,Sayali,Female,Mechanical,Wipro,5.3,Pune,2018
+ETX107,Falguni,Female,Electronics,Varroc,3.2,Aurangabad,2018
+MECH321,Darshan,Male,Mechanical,Varroc,9.1,Aurangabad,2015
+ETX318,Gaurav,Male,Electronics,Wipro,5.5,Pune,2015
+CHEM245,Ravi,Male,Chemical,Accenture,3.3,Pune,2017
+CO310,Ishan,Male,Computer,Accenture,3.5,Pune,2016
+MECH220,Suraj,Male,Mechanical,Mahindra,7.2,Pune,2016
+ETX315,Karan,Male,Electronics,Capgemini,6.5,Pune,2018
+CHEM332,Laksha,Male,Chemical,Reliance Industries,4.5,Mumbai,2015
+CHEM110,Manav,Male,Chemical,Pernod Ricard,5.6,Nashik,2017
+ETX220,Nisha,Female,Electronics,Capgemini,5.2,Pune,2017
+MECH102,Omkar,Male,Mechanical,Fiat,6.4,Ranjangaon,2016
+CO515,Parika,Female,Computer,Accenture,4.3,Pune,2013
+MECH209,Harini,Female,Mechanical,Fiat,8.2,Ranjangaon,2016
+CHEM430,Chetan,Male,Chemical,Accenture,3.5,Pune,2016
+ETX444,Tanvi,Female,Electronics,Accenture,3.5,Pune,2016
+CHEM101,Veena,Female,Chemical,Reliance Industries,6.2,Mumbai,2017
+ETX222,Zain,Male,Electronics,Capgemini,3.5,Pune,2013

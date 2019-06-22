@@ -1,0 +1,61 @@
+Roll_No,Name,Gender,Branch,Company_Selected,Annual_package_offered,Location,Year_of_Selection
+SCETTYMI01,RITIK Kumar ,M,Mechanical,Persistent,8,Hyderabad,2020
+SCETTYMI02,RakeshPatil,F,Mechanical,Persistent,9,Hyderabad,2020
+SCETTYMI03,Rushikesh Bhadage,M,Computer,IBM,4,Pune,2019
+SCETTYMI04,AkanshaKumari,F,Civil,Infosys,12,Hyderabad,2016
+SCETTYMI05,Tushar Desai,M,Mechanical,IBM,4,Bangalore,2016
+SCETTYMI06,Tejas Dhakad,F,Computer,Accenture,8,Pune,2020
+SCETTYMI07,ShubhamJoshi,M,Electronics,Deloitte,3,Mumbai,2020
+SCETTYMI08,AkankshaKothari,M,Mechanical,Deloitte,6,Pune,2020
+SCETTYMI09,MonikaSreedharan,F,Computer,L & T,7,Pune,2018
+SCETTYMI10,ShraddhaJadhav,F,Computer,Accenture,5,Pune,2019
+SCETTYMI11,Rawal Pandey,M,Electronics,Accenture,12,Hyderabad,2020
+SCETTYMI12,HarshalBorhade,M,Civil,Infosys,10,Mumbai,2020
+SCETTYMI13,Ajinkya Choudhari,M,Electronics,IBM,4,Pune,2018
+SCETTYMI14,PrajaktaYadav,F,Electronics,Persistent,9,Bangalore,2019
+SCETTYMI15,PoojaSawant,M,Electronics,IBM,12,Hyderabad,2016
+SCETTYMI16,AtishBargaje,F,Civil,IBM,4,Bangalore,2016
+SCETTYMI17,Rushikesh Kadam ,M,Civil,Infosys,8,Hyderabad,2019
+SCETTYMI18,NileshWani,F,Civil,L & T,6,Hyderabad,2020
+SCETTYMI19,PRANAVMORE,M,Chemical,Deloitte,3,Hyderabad,2018
+SCETTYMI20,JayeshShelar,M,Civil,Deloitte,11,Bangalore,2020
+SCETTYB101,Saurabh Deshmukh,M,Computer,L & T,10,Bangalore,2016
+SCETTYB102,Tejas Dhakad,M,Electronics,Infosys,7,Bangalore,2016
+SCETTYB103,Darshan Dharmik,M,Civil,L & T,6,Mumbai,2020
+SCETTYB104,Sankeit Dighe,M,Mechanical,Wipro,7,Mumbai,2017
+SCETTYB105,Shardul Dubey,M,Computer,Infosys,2,Bangalore,2017
+SCETTYB106,Sanket Dehankar,M,Computer,Infosys,4,Bangalore,2020
+SCETTYB107,Advaiti Patil,F,Computer,IBM,4,Bangalore,2020
+SCETTYB108,Suprit Gaikwad,M,Mechanical,L & T,10,Bangalore,2018
+SCETTYB109,Garima,F,Electronics,Accenture,11,Bangalore,2020
+SCETTYB110,Sudhanshu Gupta,M,Civil,Infosys,3,Mumbai,2016
+SCETTYB111,Swapnaja Varkhede,F,Computer,Infosys,3,Pune,2020
+SCETTYB112,Shraddha Jadhav,F,Mechanical,Wipro,12,Mumbai,2017
+SCETTYB113,Pooja Sharad Jagtap,F,Mechanical,L & T,6,Bangalore,2019
+SCETTYB114,Pratik Jare,M,Electronics,L & T,11,Pune,2018
+SCETTYB115,Joshi Smita Pandharinath,F,Civil,,,,
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,M,Electronics,Wipro,3,Pune,2016
+SCETTYB117,Kedar Umakant Kale,M,Civil,L & T,12,Pune,2019
+SCETTYB118,Agarwal Shubham Sanjay,M,Mechanical,Infosys,10,Pune,2016
+SCETTYB119,Niranjan Patil,M,Computer,IBM,2,Bangalore,2018
+SCETTYB120,Mehul Patil,M,Computer,Wipro,2,Pune,2016
+CO105,Aarti ,F,Computer,Directi,10.3,Mumbai,2014
+CO240,Bharat,M,Computer,Infosys,8.4,Pune,2016
+MECH540,Sayali,F,Mechanical,Wipro,5.3,Pune,2018
+ETX107,Falguni,F,Electronics,Varroc,3.2,Aurangabad,2018
+MECH321,Darshan,M,Mechanical,Varroc,9.1,Aurangabad,2015
+ETX318,Gaurav,M,Electronics,Wipro,5.5,Pune,2015
+CHEM245,Ravi,M,Chemical,Accenture,3.3,Pune,2017
+CO310,Ishan,M,Computer,Accenture,3.5,Pune,2016
+MECH220,Suraj,M,Mechanical,Mahindra,7.2,Pune,2016
+ETX315,Karan,M,Electronics,Capgemini,6.5,Pune,2018
+CHEM332,Laksha,M,Chemical,Reliance Industries,4.5,Mumbai,2015
+CHEM110,Manav,M,Chemical,Pernod Ricard,5.6,Nashik,2017
+ETX220,Nisha,F,Electronics,Capgemini,5.2,Pune,2017
+MECH102,Omkar,M,Mechanical,Fiat,6.4,Ranjangaon,2016
+CO515,Parika,F,Computer,Accenture,4.3,Pune,2013
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,M,Electronics,Wipro,3,Pune,2016
+SCETTYB117,Kedar Umakant Kale,M,Civil,L & T,12,Pune,2019
+SCETTYB118,Agarwal Shubham Sanjay,M,Mechanical,Infosys,10,Pune,2016
+SCETTYB119,Niranjan Patil,M,Computer,IBM,2,Bangalore,2018
+SCETTYB120,Mehul Patil,M,Computer,Wipro,2,Pune,2016
