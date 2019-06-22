@@ -1,0 +1,61 @@
+RollNO,name,Address,Phone,mobile,DOB
+SCETTYMI01,RITIK Kumar ,tingre nagar,77567434,1234567890,5/6/1999
+SCETTYMI02,RakeshPatil,kate vasti ,54343434,3534564645,5/7/1999
+SCETTYMI03,Rushikesh Bhadage,kate vasti ,35534334,7566453467,5/8/1999
+SCETTYMI04,AkanshaKumari,tingre nagar,97876765,2455454257,5/9/1999
+SCETTYMI05,Tushar Desai,mj road,98765654,8786767454,5/10/1999
+SCETTYMI06,Tejas Dhakad,jm road,97560845,9786434678,5/11/1999
+SCETTYMI07,ShubhamJoshi,mgroad,45236459,5353687646,5/12/1999
+SCETTYMI08,AkankshaKothari,sane chawk,11235312,8675653674,5/13/1999
+SCETTYMI09,MonikaSreedharan,chinchwad,64534126,8566568457,5/14/1999
+SCETTYMI10,ShraddhaJadhav,balaji chawk,89076797,5756564646,5/15/1999
+SCETTYMI11,Rawal Pandey,moshi road,12345678,7556565666,5/16/1999
+SCETTYMI12,HarshalBorhade,rahul phata,89074563,7565656575,5/17/1999
+SCETTYMI13,Ajinkya Choudhari,kate nagar,56342312,5656565634,5/18/1999
+SCETTYMI14,PrajaktaYadav,kate vasti ,42424234,8676755645,5/19/1999
+SCETTYMI15,PoojaSawant, shivaji chawk,78875645,8675346789,5/20/1999
+SCETTYMI16,AtishBargaje,sathe chawk,87643698,8857867553,5/21/1999
+SCETTYMI17,Rushikesh Kadam ,patil vasti,12365356,7030756474,5/22/1999
+SCETTYMI18,NileshWani,patil vasti,57678934,9823538253,5/23/1999
+SCETTYMI19,PRANAVMORE,patil nagar,86763458,9823938789,5/24/1999
+SCETTYMI20,JayeshShelar,mane chawk,34357097,9822125161,5/25/1999
+SCETTYB101,Saurabh Deshmukh,"Plot No-32, Flat No-F-01, Vaishnav Jyoti Apartment, Trisharan Nagar"
+SCETTYB102,Tejas Dhakad,"room no. 5, samarth society, paizari",23547156
+SCETTYB103,Darshan Dharmik,"plot no 133 ,vina ,maharana pratap hsg sociery old airport ",20455715
+SCETTYB104,Sankeit Dighe,"Brahman Galli, Nagarkhana Road",32481501,8888855008
+SCETTYB105,Shardul Dubey,"09, Anuja Apartment , Behind Janlaxmi Bank Head Office, Old Agra Road"
+SCETTYB106,Sanket Dehankar,"B-1, Flat No. 302, Mahalaxmi Vihar, Vishrantwadi"
+SCETTYB107,Advaiti Patil,"Near Vitthal temple, Vitthal Colony, Shrinagar, Akola road"
+SCETTYB108,Suprit Gaikwad,"75,Ganesh nagar, shahada",20134720
+SCETTYB109,Garima,"Ramnagari Complex 2B Flat NO.317,Alandi Road",32547115,8340510396
+SCETTYB110,Sudhanshu Gupta,"S48, Datta Prasad, Bharat Nagar, Amt road"
+SCETTYB111,Swapnaja Varkhede,"408 B Wing, Raviraj Heritage, Bhau Patil Road, Bopodi"
+SCETTYB112,Shraddha Jadhav,"C705 Phase 2 , Alankapuram Society , Charoli- Budruk ",30303536
+SCETTYB113,Pooja Sharad Jagtap,"C-701 Sukhwani Bliss, CTS 250 Gawade Nagar, Chinchwad",
+SCETTYB114,Pratik Jare,"A102 Splendid Square, Lohegaon-Dhanori Road",20145722,8530318476
+SCETTYB115,Joshi Smita Pandharinath,2715 Mandale Complex Dehu Phata ,21453015,7776969936,7/7/1997
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,"Mauli Krupa,Tapkir Nagar,Opposite to Manas Girls Hostel",20455715
+SCETTYB117,Kedar Umakant Kale,tanish orchid charoli chovisavadi,32481501,8087080028,3/2/1998
+SCETTYB118,Agarwal Shubham Sanjay,"shrusti girls hostel,near dehu phata",32104576,8983479331
+SCETTYB119,Niranjan Patil,"H1-501, Jasminium, Magarpatta City",21503461
+SCETTYB120,Mehul Patil,"Ratan kunj, nai abadi, near jain temple, pratapgarh"
+CO105,Aarti ,"B-1, 302, Ganga Satellite, Viman Nagar"
+CO240,Bharat,"64/1, Happy Homes, Dombivli",23547156
+MECH540,Sayali,"C wing, 411, Gokul Vihar",20455715
+ETX107,Falguni,"D-5, Flat No-201, Sky Vie, Safdarjung Road"
+MECH321,Darshan,"Prabhu Kunj, Mount Road, Sadar",32104576
+ETX318,Gaurav,"Plot No. 11, Trishul Bungalow, Sadar",21503461
+CHEM245,Ravi,"34, Vitthal Road",,8400221734
+CO310,Ishan,"D-2, 101, Datta Apartments",24001530
+MECH220,Suraj,"45, Palace Road, Ambedkar Veedhi",30157554
+ETX315,Karan,"C2, 304, Ambala Society, Race Course road"
+CHEM332,Laksha,"Plot No. 23, Ratnamala, Tilak Road",
+CHEM110,Manav,"37, Hill View Sociey, Mall Road",38450124
+ETX220,Nisha,"A-2, 303, Rahiman Society, Mukundnagar"
+MECH102,Omkar,"99, Jaideep Vihar, Panchasheel Road",32547115
+CO515,Parika,"243, Galaxy Hieghts, Bandra East",
+SCETTYB116,Jagath Sai Narayana Kakaraparthy,"Mauli Krupa,Tapkir Nagar,Opposite to Manas Girls Hostel",20455715
+SCETTYB117,Kedar Umakant Kale,tanish orchid charoli chovisavadi,32481501,8087080028,3/2/1998
+SCETTYB118,Agarwal Shubham Sanjay,"shrusti girls hostel,near dehu phata",32104576,8983479331
+SCETTYB119,Niranjan Patil,"H1-501, Jasminium, Magarpatta City",21503461
+SCETTYB120,Mehul Patil,"Ratan kunj, nai abadi, near jain temple, pratapgarh"

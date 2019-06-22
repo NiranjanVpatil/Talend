@@ -1,0 +1,4 @@
+id;Name;Sex;Surgery
+1;Shong;M;Yes
+2;Ross;M;No
+3;Elise;F;Yes

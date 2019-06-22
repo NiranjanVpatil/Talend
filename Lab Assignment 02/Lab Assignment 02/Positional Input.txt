@@ -1,0 +1,6 @@
+schema_1 (car_owner):schema_id;car_make;owner;age
+schema_2 (car-insurance):schema_id;car_owner;age;car_insurance
+1bmw     John      45
+1bench   Mike      30
+2John      45 yes 
+2Mike      50 No      
