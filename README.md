@@ -69,6 +69,23 @@ https://www.youtube.com/watch?v=DWwT5c4EkSc
 32.	How to Count the rows in a File ? 
 33.	How to UnArchive or UnZip a File ? 
 
+Reference :
+
+How to Create a Temporary File ?
+How to Change Encoding of a File ?
+How to Archive a File ?
+
+https://help.talend.com/reader/hm5FaPiiOP31nUYHph0JwQ/LVyqOf5jpvzw3jzwz3wTJw
+
+How to Change Rows into Columns ?in talend
+
+https://community.talend.com/t5/Migration-Configuration-and/Converting-rows-to-columns/ta-p/21667
+https://community.talend.com/t5/Design-and-Development/How-to-convert-rows-into-columns/td-p/102244
+
+How to Handle Single Column Output Data ?
+
+https://community.talend.com/t5/Design-and-Development/Multiple-Inputs-to-single-output-column-in-tmap/td-p/81796
+https://help.talend.com/reader/H~ouYvKTrzr7kXU4N4rcpA/GoXsx7TLlLkPYJQQvOZlrg
 
 # My ( T184104 )Lab Exam 
 
