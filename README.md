@@ -4,7 +4,6 @@ Talend has democratized master data management by developing the first complete 
 
 # Lab Assignment 01 :
 
-
 Create an excel sheet Containing student personal information with fields Roll no, name, address, phone , mobile, DOB, gender, city, state.
 Create other worksheet containing Academic details Roll no, name , DOB, Gender, Branch , Sem-I total, SEM II total , SEM III Total,……. Sem VII Total , Skills acquired, Proficiency in Communication(Excellent/V.Good/good/Fair/Poor)
 Create a Placement worksheet Roll no, Name, Gender, Branch, Company selected, Annual package offered , Location ,Year of Selection
