@@ -11,13 +11,13 @@ Put minimum 20 records in each sheet . Save the sheet as Xls. Project using tale
 
 Take two sheets from your friends.
 
-Using Talend integrate all three sheets into one single sheet in uniforma formats .(Please make sure you are merging all three personal information into one sheet, all academic information into another sheet like wise. )
+Using Talend integrate all three sheets into one single sheet in uniform formats .(Please make sure you are merging all three personal information into one sheet, all academic information into another sheet like wise. )
 
 After assuring uniformity in the formats you are Applying ETL process to generate following files:
 1.	Records with duplicate records –personal information
 2.	Students placed in Infosys/persistent/Microsoft (any three companies you wish.) separate file for each company 
 3.	Students having Distinction and First class in two different files. 
-4.	Students who got more than 5 lacs in one file and less than in other file. 
+4.	Students who got more than 5 lakhs in one file and less than in other file. 
 5.	Details of Girls selected in placement.
 (use tmap, tJoin, tReplicate ,tFilter functions any all other necessary components for the above exercise )
 
@@ -90,5 +90,5 @@ https://help.talend.com/reader/H~ouYvKTrzr7kXU4N4rcpA/GoXsx7TLlLkPYJQQvOZlrg
 
 1. Creating a local Database Connection 
 2. Display Query on console
-3. Seprate two files
+3. Separate two files
 
